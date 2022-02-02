@@ -1,2 +1,2 @@
-# logo-design-portfolio
+# logo-designers-portfolio
 Logo designer's portfolio
